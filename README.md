@@ -21,3 +21,7 @@ https://online.visual-paradigm.com/share.jsp?id=343131393337342d31
 ### Realizar pago de boleto
 ![realizar_pago_boleto](https://github.com/user-attachments/assets/d5827827-9cb5-4523-abc7-581734aae5a7)
 
+### Controlar incidencia de compra
+![controlar_incidencia_compra](https://github.com/user-attachments/assets/028c2f8c-25d8-4deb-8469-4d7b7233c451)
+
+
