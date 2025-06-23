@@ -12,6 +12,6 @@ https://online.visual-paradigm.com/share.jsp?id=343131393337342d31
 
 ## Diagramas de Secuencias de Casos de Uso
 
-- Reservar un boleto
+### Reservar un boleto
 ![image](https://github.com/user-attachments/assets/0cf9e4bd-af5f-4f9e-8139-22ef49585a1a)
 
