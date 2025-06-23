@@ -18,3 +18,6 @@ https://online.visual-paradigm.com/share.jsp?id=343131393337342d31
 ### Reservar un boleto
 ![image](https://github.com/user-attachments/assets/0cf9e4bd-af5f-4f9e-8139-22ef49585a1a)
 
+### Realizar pago de boleto
+![realizar_pago_boleto](https://github.com/user-attachments/assets/d5827827-9cb5-4523-abc7-581734aae5a7)
+
