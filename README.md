@@ -6,9 +6,12 @@
 - Pablo Naranjo
 - Victor Valverde
 
-## Link del diagrama de Casos de Uso: 
+## Diagrama de Casos de Uso
 https://online.visual-paradigm.com/share.jsp?id=343131393337342d31 
 ![Tarea 02-Diagrama de Casos de Uso](https://github.com/user-attachments/assets/abaf6a3a-8927-4a47-9d29-2019fce92d2e)
+
+## Diagrama de Clases
+![Tarea 02-Diagrama de clases](https://github.com/user-attachments/assets/9a90ce0e-6bf8-4fd8-a9d4-be360d7114f6)
 
 ## Diagramas de Secuencias de Casos de Uso
 
