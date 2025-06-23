@@ -12,6 +12,9 @@ https://online.visual-paradigm.com/share.jsp?id=343131393337342d31
 
 ## Diagramas de Secuencias de Casos de Uso
 
+### Buscar un evento musical
+![WhatsApp Image 2025-06-22 at 6 57 15 PM](https://github.com/user-attachments/assets/6beced05-d007-4af6-b4aa-f7f75a5c690d)
+
 ### Reservar un boleto
 ![image](https://github.com/user-attachments/assets/0cf9e4bd-af5f-4f9e-8139-22ef49585a1a)
 
